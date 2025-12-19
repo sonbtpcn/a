@@ -10,7 +10,7 @@ Việc sử dụng script này có thể vi phạm điều khoản dịch vụ c
 1. Copy đường dẫn dưới đây mở shadowrocket.
 
 ```bash
-https://raw.githubusercontent.com/KhoaDayy/LocketGold/refs/heads/main/Locket_Gold.sgmodule
+https://raw.githubusercontent.com/sonbtpcn/a/refs/heads/main/Locket_Gold.sgmodule
 ```
 2. Chọn sang mục cấu hình, bấm vào dấu + ở góc trên cùng bên phải dán đường dẫn vừa coppy vào và bấm tải xuống.
 3. Bấm vào Locket_Gold.conf và chọn sử dụng Config.
